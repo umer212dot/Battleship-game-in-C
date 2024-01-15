@@ -1,9 +1,41 @@
 # Battleship-game-in-C
-The Battleship Game is a strategic two-player board game that challenges players to
-sink each other's fleet.
+The project aims to develop a classic Battleship Game implemented in the C programming language.
 
-The project involves the development of a grid-based, turn-based Battleship Game in C.
+The Battleship Game is a classic two-player strategy board game where each player takes on the role of a fleet commander.
 
-It includes the ability for players to strategically place their ships, a single-player mode with computer opponent, the ability to save game and continue from the same point, and a user-friendly console-based interface. 
+The objective of the game is to sink the opponent’s fleet of ships before they can sink yours.
 
-The project will be implemented in Visual Studio Code, utilizing the GCC compiler for C.
+
+•	Salient Features 
+
+    •	Grid-Based Gameplay
+    
+    •	Custom Ship Placement
+    
+    •	Single-Player Mode with Computer Opponent
+    
+    •	Multiplayer Mode (two-player)
+    
+    •	Hit or Miss Feedback
+    
+    •	Sinking Ships and Scoring
+    
+    •	Error Handling for User Input
+    
+    •	User-Friendly Text-Based Interface
+    
+    •	Saving game and continuing.
+
+
+•	Tools & Technologies
+
+The Battleship Game in C will be developed using the following tools and technologies:
+
+    •	Programming Language: C
+    
+    •	Operating System:  Windows
+    
+    •	Development Environment: Visual Studio Code
+    
+    •	Build Tools: GCC (GNU Compiler Collection) for C
+
